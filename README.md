@@ -144,29 +144,4 @@ Update the CSS variables in `Css/style.css`:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Team
-
-- **Course**: ICT-1153 Web Technologies
-- **Institution**: [Your Institution Name]
-- **Academic Level**: Level 1, Semester 1
-
-## 📞 Support
-
-For support and questions:
-- 📧 Email: info@sledoctor.lk
-- 📱 Phone: +94753178064
-- 🌐 Website: [Your Website URL]
-
-## 🙏 Acknowledgments
-
-- Course instructors and teaching assistants
-- Medical professionals who provided domain expertise
-- Open source community for inspiration and resources
-
----
-
 **⭐ Star this repository if you found it helpful!**
